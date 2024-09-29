@@ -18,13 +18,13 @@ const Gallery = () => {
       
       <Slider {...settings}>
         <div>
-          <img src="/src/images/asse.jpg" alt="School Event 1" />
+          <img src="/images/asse.jpg" alt="School Event 1" />
         </div>
         <div>
-          <img src="/src/images/g2.jpeg" alt="School Event 2" />
+          <img src="/images/g2.jpeg" alt="School Event 2" />
         </div>
         <div>
-          <img src="/src/images/g3.jpg" alt="School Event 3" />
+          <img src="/images/g3.jpg" alt="School Event 3" />
         </div>
       </Slider>
     </section>

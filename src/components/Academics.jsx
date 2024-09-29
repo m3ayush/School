@@ -27,20 +27,20 @@ const Academics = () => {
      
       <div className='study-sec'>
         <ul>
-            <li><a href="/src/images/d1.pdf" download>
-                <img src='/src/images/folder.png' className='study-img'/>
+            <li><a href="/images/d1.pdf" download>
+                <img src='/images/folder.png' className='study-img'/>
                 <p>Maths</p>
                 </a></li>
-            <li><a href="/src/images/d2.pdf" download>
-                <img src='/src/images/folder.png' className='study-img'/>
+            <li><a href="/images/d2.pdf" download>
+                <img src='/images/folder.png' className='study-img'/>
                 <p>English</p>
                 </a></li>
-            <li><a href="/src/images/d3.pdf" download>
-                <img src='/src/images/folder.png' className='study-img'/>
+            <li><a href="/images/d3.pdf" download>
+                <img src='/images/folder.png' className='study-img'/>
                 <p>Science</p>
                 </a></li>
-            <li><a href="/src/images/d4.pdf" download>
-                <img src='/src/images/folder.png' className='study-img'/>
+            <li><a href="/images/d4.pdf" download>
+                <img src='/images/folder.png' className='study-img'/>
                 <p>Hindi</p>
                 </a></li>
         </ul>
