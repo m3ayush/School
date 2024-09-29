@@ -8,12 +8,12 @@ const About = () => {
       <div className="team-para">
         <div className='team'>
           <div className="team-member">
-            <img src="src\images\p1.jpeg" alt="Principal" className='abimg' />
+            <img src="/src/images/p1.jpeg" alt="Principal" className='abimg' />
             
             <h3>Principal</h3>
           </div>
           <div className="team-member">
-            <img src="src\images\p2.jpg" alt="Vice Principal" className='abimg' />
+            <img src="/src/images/p2.jpg" alt="Vice Principal" className='abimg' />
             <h3>Vice Principal</h3>
           </div>
         </div>
